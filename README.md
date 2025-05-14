@@ -24,10 +24,21 @@ Koda School
 📁 Project Structure
 Copy
 Edit
-react-mini-projects/
-├── theme-switcher/
-├── currency-converter/
-└── todo-app/
+01basicvite
+02basicvite
+03basicvite
+04bgchanger
+05passwordGenerator
+Api_context
+Curranc_Convarter
+Test_code
+basiccreat
+customReacts
+router_crash/src/components
+package-lock.json
+package.json
+Repository files navigation
+
 🎨 1. Theme Switcher
 A React application that allows users to toggle between light and dark themes using Context API.
 GitHub
