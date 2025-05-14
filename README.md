@@ -24,7 +24,29 @@ Koda School
 📁 Project Structure
 Copy
 Edit
-01basicvite
+01basicvite/
+public
+src
+.gitignore
+README.md
+eslint.config.js
+index.html
+package-lock.json
+package.json
+vite.config.js
+02basicvite
+03basicvite
+04bgchanger
+05passwordGenerator
+Api_context
+Curranc_Convarter
+Test_code
+basiccreat
+customReacts
+router_crash
+README.md
+package-lock.json
+package.json
 02basicvite
 03basicvite
 04bgchanger
@@ -129,7 +151,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/react-mini-projects.git
+git clone https://github.com/Vishalsahani156/React_Project_Basic/edit/main
 cd react-mini-projects
 Navigate to a project folder:
 
